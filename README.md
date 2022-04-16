@@ -8,7 +8,7 @@
 <br>
 <hr>
 
-## Referencias
+## Referências
 <p>Desafio proposto por <a hrf="https://www.youtube.com/watch?v=edDCEK5QWE8&t=1700s">Alexandre Saints</a></p>
 <br>
 
