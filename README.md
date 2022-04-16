@@ -3,3 +3,4 @@
 <p>Está página foi feita para estudo.</p>
 
 ## Versão Web
+<img src="./components/images/InvictusDetailerWeb.png">
