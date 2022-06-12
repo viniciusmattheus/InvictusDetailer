@@ -1,16 +1,13 @@
-# Invictus Detailer
-<p>Página desenvolvida em HTML e CSS.</p>
-<p>Está página foi feita para estudo.</p>
+<h1 align="center">Invictus Detailer</h1>
+<p align="center">Projeto desenvolvido para estudar alguns conceitos sobre HTML, CSS e JavaScript!</p>
+<p align="center">Projeto desenvolvido seguind o tutorial proposto pelo Youtuber e Desenvolvedor Alexandre Saints.</p>
+<p align="center">Empresa de <i>Estética Automotiva</i> de um grande amigo <b>Eduardo Souza</b></p>
 
-## Versão Web
-<img src="./components/images/InvictusDetailer.png">
-<br>
-<br>
-<hr>
+<div align="center">
 
-## Referências
-<p>Desafio proposto por <a hrf="https://www.youtube.com/watch?v=edDCEK5QWE8&t=1700s">Alexandre Saints</a></p>
-<br>
+[Landing Page com HTML e CSS](https://www.youtube.com/watch?v=edDCEK5QWE8&t=564s)
 
-### Invictus Detailer
-<p>Empresa de <i>Estética Automotiva</i> de um grande amigo <b>Eduardo Souza</b></p>
+</div>
+
+<h2 align="center">Desktop<hr></h2>
+<img src="./components/images/ladingpageinvictusdetailer.png">
