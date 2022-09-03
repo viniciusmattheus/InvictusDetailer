@@ -10,5 +10,5 @@
 
 <p align="center">Empresa de <i>Estética Automotiva</i> de um grande amigo <b>Eduardo Souza</b></p>
 
-<h2 align="center">Desktop<hr></h2>
+<h2 align="center">Desktop</h2>
 <img src="./components/images/ladingpageinvictusdetailer.png">
