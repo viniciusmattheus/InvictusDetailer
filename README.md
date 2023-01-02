@@ -1,5 +1,5 @@
 <h1 align="center">Invictus Detailer</h1>
-<p align="center">Projeto desenvolvido para estudar alguns conceitos sobre HTML, CSS e JavaScript!</p>
+<p align="center">Projeto desenvolvido para estudar alguns conceitos sobre HTML e CSS</p>
 <p align="center">Projeto desenvolvido seguindo o tutorial proposto pelo Youtuber e Desenvolvedor Alexandre Saints.</p>
 
 <div align="center">
